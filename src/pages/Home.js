@@ -22,7 +22,6 @@ const Home = () => {
       <Services />
       <FeatureRooms />
 
-      <Order />
       <Footer />
     </React.Fragment>
   );

@@ -23,7 +23,7 @@ export default [
     fields: {
       name: "luxury Royal orchid ",
       slug: "single-economy",
-      type: "single",
+      type: "rose",
       price: 450,
       size: 200,
       capacity: 1,
@@ -79,7 +79,7 @@ export default [
     fields: {
       name: "Fairy autumn",
       slug: "single-basic",
-      type: "single",
+      type: "rose",
       price: 750,
       size: 250,
       capacity: 1,
@@ -134,7 +134,7 @@ export default [
     fields: {
       name: "single standard",
       slug: "single-standard",
-      type: "single",
+      type: "mix flowers",
       price: 550,
       size: 300,
       capacity: 1,
@@ -190,8 +190,8 @@ export default [
     },
     fields: {
       name: "single deluxe",
-      slug: "single-deluxe",
-      type: "single",
+      slug: "single deluxe",
+      type: "rose",
       price: 330,
       size: 400,
       capacity: 1,
@@ -248,7 +248,7 @@ export default [
     fields: {
       name: "double economy",
       slug: "double-economy",
-      type: "double",
+      type: "rose",
       price: 570,
       size: 300,
       capacity: 2,
@@ -305,7 +305,7 @@ export default [
     fields: {
       name: "double basic",
       slug: "double-basic",
-      type: "double",
+      type: "wild flowers",
       price: 530,
       size: 350,
       capacity: 2,
@@ -362,7 +362,7 @@ export default [
     fields: {
       name: "double standard",
       slug: "double-standard",
-      type: "double",
+      type: "rose",
       price: 470,
       size: 400,
       capacity: 2,
@@ -419,7 +419,7 @@ export default [
     fields: {
       name: "double deluxe",
       slug: "double-deluxe",
-      type: "double",
+      type: "wild flowers",
       price: 400,
       size: 500,
       capacity: 2,
@@ -476,7 +476,7 @@ export default [
     fields: {
       name: "Lady cotton",
       slug: "family-economy",
-      type: "family",
+      type: "mix flowers",
       price: 320,
       size: 500,
       capacity: 3,
@@ -533,7 +533,7 @@ export default [
     fields: {
       name: "little petunia",
       slug: "family-basic",
-      type: "family",
+      type: "wild flowers",
       price: 350,
       size: 550,
       capacity: 4,
@@ -590,7 +590,7 @@ export default [
     fields: {
       name: "family standard",
       slug: "family-standard",
-      type: "family",
+      type: "rose",
       price: 410,
       size: 600,
       capacity: 5,
@@ -647,7 +647,7 @@ export default [
     fields: {
       name: "family deluxe",
       slug: "family-deluxe",
-      type: "family",
+      type: "rose",
       price: 1150,
       size: 700,
       capacity: 6,
@@ -704,7 +704,7 @@ export default [
     fields: {
       name: "Amazing Julia Rose",
       slug: "presidential-room",
-      type: "presidential",
+      type: "rose",
       price: 1600,
       size: 1000,
       capacity: 10,
