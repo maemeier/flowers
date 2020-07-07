@@ -37,7 +37,6 @@ const FlowerFilter = ({ rooms }) => {
             value={type}
             className="form-control"
             onChange={handleChange}
-            value={type}
           >
             {types}
           </select>
