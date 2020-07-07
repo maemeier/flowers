@@ -645,7 +645,7 @@ export default [
       id: "12"
     },
     fields: {
-      name: "Sweet Rosy",
+      name: "Sweet Rosie",
       slug: "family-deluxe",
       type: "rose",
       price: 1150,
