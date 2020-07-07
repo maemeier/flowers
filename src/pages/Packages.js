@@ -18,7 +18,7 @@ const Packages = () => {
         </Banner>
       </Hero>
       <ListPackage />
-      <ShowCase />
+
       <Footer />
     </div>
   );

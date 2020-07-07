@@ -87,7 +87,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        " The Round or Hand Tied bouquet works well with all wedding types and dress styles, the flowers and colors selected will influence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
         "Color: Your Choice",
         "Assembled & Picked by Hand",
@@ -132,7 +132,7 @@ export default [
       id: "3"
     },
     fields: {
-      name: "single standard",
+      name: "Rosy in love",
       slug: "single-standard",
       type: "mix flowers",
       price: 550,
@@ -142,7 +142,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        " Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        " luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
         "1 bouquet with 25 stems",
         "Color: White, pink, green",
@@ -189,7 +189,7 @@ export default [
       id: "4"
     },
     fields: {
-      name: "single deluxe",
+      name: "rainbow bouquet",
       slug: "single deluxe",
       type: "rose",
       price: 330,
@@ -199,15 +199,15 @@ export default [
       breakfast: true,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
@@ -246,7 +246,7 @@ export default [
       id: "5"
     },
     fields: {
-      name: "double economy",
+      name: "Amazing Julia rose",
       slug: "double-economy",
       type: "rose",
       price: 570,
@@ -256,15 +256,15 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
@@ -303,7 +303,7 @@ export default [
       id: "6"
     },
     fields: {
-      name: "double basic",
+      name: "Sweet lily",
       slug: "double-basic",
       type: "wild flowers",
       price: 530,
@@ -313,15 +313,15 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
@@ -360,7 +360,7 @@ export default [
       id: "7"
     },
     fields: {
-      name: "double standard",
+      name: "Sweet summer",
       slug: "double-standard",
       type: "rose",
       price: 470,
@@ -370,15 +370,15 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
@@ -417,7 +417,7 @@ export default [
       id: "8"
     },
     fields: {
-      name: "double deluxe",
+      name: "Winner in love",
       slug: "double-deluxe",
       type: "wild flowers",
       price: 400,
@@ -427,15 +427,15 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
@@ -484,15 +484,15 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
@@ -541,15 +541,15 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
@@ -588,7 +588,7 @@ export default [
       id: "11"
     },
     fields: {
-      name: "family standard",
+      name: "Lil ladies",
       slug: "family-standard",
       type: "rose",
       price: 410,
@@ -598,15 +598,15 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
@@ -645,7 +645,7 @@ export default [
       id: "12"
     },
     fields: {
-      name: "family deluxe",
+      name: "Sweet Rosy",
       slug: "family-deluxe",
       type: "rose",
       price: 1150,
@@ -655,15 +655,15 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "luence the formality of the bouquet and you can choose from either the same type flower to an assortment of sizes and varieties. Hand Tied bouquets can include a wide assortment of flowers and greenery, and are secured by using a satin ribbon.Global Rose has a complete variety of flowers and greenery you can choose from to create your dream bridal bouque",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "1 bouquet with 25 stems",
+        "Color: White, pink, green",
+        "Assembled & Picked by Hand",
+        "Vase Life: 5 - 10 Days",
+        "Time to Bloom: 1-2 days",
+        "25 Flowers per Bridal Bouquet",
+        "Diameter when bloomed: 3.5 - 4.8 inch"
       ],
       images: [
         {
